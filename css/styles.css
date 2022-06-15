@@ -1,0 +1,30 @@
+* {
+    background-color: lavender;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {   
+    border: 1px solid black;
+    margin: 2% 6%;
+}
+
+header{
+    text-align: center;
+}
+h1{
+    letter-spacing: 5px;
+}
+h3{
+    background-color: white;
+    padding: 5px;
+}
+a{
+    color: black;
+}
+p{
+    text-indent: 15px;
+}
+
+footer{
+    text-align: center;
+    font-size: 14px;
+}
